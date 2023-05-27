@@ -9,7 +9,7 @@
     <packaging>jar</packaging>
     <version>1.0-SNAPSHOT</version>
 
-    <name>WS: Demo 02</name>
+    <name>Websocket: Demo 02</name>
 
     <properties>
         <!-- Global encoding -->
