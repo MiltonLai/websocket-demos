@@ -1,0 +1,8 @@
+server:
+  port: 8763
+  tomcat:
+    uri-encoding: UTF-8
+
+spring:
+  application:
+    name: ws-demo01
